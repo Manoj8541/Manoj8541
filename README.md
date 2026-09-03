@@ -18,7 +18,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="Assests/dev.webp" width="300" alt="Coding GIF"/>
+<img align="right" src="Assests/dev.webp" width="270" alt="Coding GIF"/>
 
 - 🚀 Building and deploying full-stack web applications, AI/ML systems and DevOps workflows with a focus on reliable, production-ready software
 - 🤖 Exploring scalable AI/ML engineering — including PyTorch optimization, model deployment and container orchestration
